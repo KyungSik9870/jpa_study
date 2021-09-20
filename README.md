@@ -1,5 +1,5 @@
 
-#*JPA (Java Persistence API)*
+# JPA (Java Persistence API)
 ## Java 의 ORM 기술 표준.
 
 ### ORM 이란 ?? 🤔
